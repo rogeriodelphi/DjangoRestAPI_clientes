@@ -10,3 +10,4 @@ class Clientes(admin.ModelAdmin):
     list_per_page = 25
 
 admin.site.register(Cliente, Clientes)
+
