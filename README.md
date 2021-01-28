@@ -3,7 +3,7 @@
 <h1>DjangoRestAP</h1>
 
 <!-- Subtitle/Description -->
-<p style='text-align: left;'>
+<div style="text-align: right">
 <h2>API com Django 3: Validações, buscas, filtros e deploy.</h2>
 
 <h3>Nesse código foi abordado conceitos de:</h3>
@@ -12,7 +12,7 @@
 <h4>- utilização de validação dos campos da API;</h4>
 <h4>- utilização de filtros, buscas e ordenação nos endpoints;</h4>
 <h4>- Deploy no Heroku;</h4>
-</p>
+</div>
 
 <p>
 <!-- Image Shields -->
