@@ -3,6 +3,8 @@ from rest_framework import viewsets, filters
 
 from clientes.models import Cliente
 from clientes.serializers import ClienteSerializer
+from rest_framework.authentication import BasicAuthentication
+from rest_framework.permissions import IsAuthenticated
 
 
 class ClientesViewSet(viewsets.ModelViewSet):
@@ -13,3 +15,5 @@ class ClientesViewSet(viewsets.ModelViewSet):
     ordering_fields = ['nome']
     search_fields = ['nome', 'cpf']
     filterset_fields = ['ativo']
+    authentication_classes = [BasicAuthentication]
+    permission_classes = [IsAuthenticated]
