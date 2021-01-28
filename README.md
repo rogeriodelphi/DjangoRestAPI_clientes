@@ -5,7 +5,7 @@
 
 
 
-# API com Django 3: Validações, buscas, filtros e deploy.
+## API com Django 3: Validações, buscas, filtros e deploy.
 ### Nesse código foi abordado conceitos de:
 * ##### utilização da arquitetura Django Rest API;
 * ##### uso de lógica de programação separadas com serializers e validators;</h4>
