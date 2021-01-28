@@ -1,15 +1,19 @@
 <div align="center">
-<!-- Top Image and Title -->
-# DjangoRestAP
-
+    <h1>DjangoRestAP</h1>
+</div>
 <!-- Subtitle/Description -->
-## API com Django 3: Validações, buscas, filtros e deploy.
+
+
+
+# API com Django 3: Validações, buscas, filtros e deploy.
 ### Nesse código foi abordado conceitos de:
-*utilização da arquitetura Django Rest API;
-*uso de lógica de programação separadas com serializers e validators;</h4>
-*utilização de validação dos campos da API;
-*utilização de filtros, buscas e ordenação nos endpoints;
-*Deploy no Heroku;
+* ##### utilização da arquitetura Django Rest API;
+* ##### uso de lógica de programação separadas com serializers e validators;</h4>
+* ##### utilização de validação dos campos da API;
+* ##### utilização de filtros, buscas e ordenação nos endpoints;
+* ##### Deploy no Heroku;
+
+<div align="center">
 
 <p>
 <!-- Image Shields -->
