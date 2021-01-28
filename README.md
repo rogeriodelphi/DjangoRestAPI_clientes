@@ -12,7 +12,7 @@
 <h4>- utilização de validação dos campos da API;</h4>
 <h4>- utilização de filtros, buscas e ordenação nos endpoints;</h4>
 <h4>- Deploy no Heroku;</h4>
-<p>
+</p>
 
 <p>
 <!-- Image Shields -->
