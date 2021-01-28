@@ -15,8 +15,6 @@ Nesse código foi abordado conceitos de:
 
 <p>
 <!-- Image Shields -->
-![GitHub](https://img.shields.io/github/license/rogeriodelphi/DjangoRestAPI_clientes)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)
 <img  alt="Languages Count"  src="https://img.shields.io/github/languages/count/rogeriodelphi/DjangoRestAPI">
 <img  alt="Last Commit"  src="https://img.shields.io/github/last-commit/rogeriodelphi/DjangoRestAPI">
 <img  alt="Repo Size"  src="https://img.shields.io/github/repo-size/rogeriodelphi/DjangoRestAPI">
@@ -29,8 +27,11 @@ Nesse código foi abordado conceitos de:
 <a href="#gift-contributing">Contribuição</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a  href="https://github.com/rogeriodelphi/DjangoRestAPI/LICENSE">
 
+<h3>Arquitetura DRF rodando no Heroku:</h3>
 <img  width="100%"  src="https://i.imgur.com/IiTAqTF.png">
+<h3>Utilizando filtros, buscas e ordenação:</h3>
 <img  width="100%"  src="https://i.imgur.com/HJStcRm.png">
+<h3>Uso de Serializers:</h3>
 <img  width="100%"  src="https://i.imgur.com/LZUmekt.png">
 </div>
 
