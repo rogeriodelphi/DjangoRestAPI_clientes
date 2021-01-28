@@ -3,9 +3,20 @@
 <h1>DjangoRestAP</h1>
 
 <!-- Subtitle/Description -->
-Desenvolvimento de uma API do zero: utilizando com a linguagem Python, e utilizando modelos, serializers e views.
+API com Django 3: Validações, buscas, filtros e deploy.
+
+Nesse código foi abordado conceitos de:
+- utilização da arquitetura Django Rest API;
+- uso de lógica de programação separadas com serializers e validators;
+- utilização de validação dos campos da API;
+- utilização de filtros, buscas e ordenação nos endpoints;
+- Deploy no Heroku;
+
+
 <p>
 <!-- Image Shields -->
+![GitHub](https://img.shields.io/github/license/rogeriodelphi/DjangoRestAPI_clientes)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)
 <img  alt="Languages Count"  src="https://img.shields.io/github/languages/count/rogeriodelphi/DjangoRestAPI">
 <img  alt="Last Commit"  src="https://img.shields.io/github/last-commit/rogeriodelphi/DjangoRestAPI">
 <img  alt="Repo Size"  src="https://img.shields.io/github/repo-size/rogeriodelphi/DjangoRestAPI">
@@ -18,8 +29,9 @@ Desenvolvimento de uma API do zero: utilizando com a linguagem Python, e utiliza
 <a href="#gift-contributing">Contribuição</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a  href="https://github.com/rogeriodelphi/DjangoRestAPI/LICENSE">
 
-<img  width="100%"  src="https://i.imgur.com/pzfIaz8.png">
-<img  width="100%"  src="https://i.imgur.com/cQgYSBy.png">
+<img  width="100%"  src="https://i.imgur.com/IiTAqTF.png">
+<img  width="100%"  src="https://i.imgur.com/HJStcRm.png">
+<img  width="100%"  src="https://i.imgur.com/LZUmekt.png">
 </div>
 
 
@@ -28,7 +40,7 @@ Desenvolvimento de uma API do zero: utilizando com a linguagem Python, e utiliza
 ### :rocket: Tecnologias utilizadas
 - [Python](https://www.python.org/)
 - [Dango Rest Full](https://www.django-rest-framework.org/)
-- [SQLite](https://www.sqlite.org/index.html)
+- [PostgreSQL](https://www.postgresql.org/)
 
 ---
 
@@ -39,7 +51,10 @@ Na linha de comando:
 
 ```bash
 # Para clonar este repositório
-$ git clone https://github.com/rogeriodelphi/DjangoRestAPI.git
+$ git clone https://github.com/rogeriodelphi/DjangoRestAPI_clientes.git
+
+# No Heroku
+https://drf-cliente.herokuapp.com/
 
 ```
 ---
