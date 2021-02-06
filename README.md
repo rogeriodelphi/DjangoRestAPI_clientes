@@ -9,9 +9,9 @@
 ### Nesse código foi abordado conceitos de:
 * ##### utilização da arquitetura Django Rest API;
 * ##### uso de lógica de programação separadas com serializers e validators;</h4>
-* ##### utilização de validação dos campos da API;
-* ##### utilização de filtros, buscas e ordenação nos endpoints;
-* ##### Deploy no Heroku;
+<!--* ##### utilização de validação dos campos da API;-->
+<!--* ##### utilização de filtros, buscas e ordenação nos endpoints;-->
+<!--* ##### Deploy no Heroku;-->
 
 <div align="center">
 
